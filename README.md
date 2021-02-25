@@ -5,6 +5,6 @@
 
 # Hi Guys
 
-- [ ] I am from Australia
-- [ ]m of Maori descent 
-- [ ]as born in Wellington 
+- [x] I am from Australia
+- [ ] I'm of Maori descent 
+- [ ] I was born in Wellington 
