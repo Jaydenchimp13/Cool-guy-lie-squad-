@@ -1,6 +1,6 @@
 # Cool-guy-lie-squad-
 #2T1L
 
-<--taking L's-->
+<--to the future!-->
 
 # Hi Guys
