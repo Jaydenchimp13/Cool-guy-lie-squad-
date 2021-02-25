@@ -5,8 +5,8 @@
 
 # Hi Guys
 
-- I am from Australia
-- I'm of Maori descent 
-- I was born in Wellington 
+- I was Top 500 in Overwatch
+- I was the CEO of an officially recognised company in year 12
+- I can any% speedrun Dark Souls 3 
 
 ###### (this is a merge test)
