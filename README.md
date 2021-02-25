@@ -5,8 +5,8 @@
 
 # Hi Guys
 
-##- I was Top 500 in Overwatch
-##- I was the CEO of an officially recognised company in year 12
-##- I can any% speedrun Dark Souls 3 
+- I was Top 500 in Overwatch
+- I was the CEO of an officially recognised company in year 12
+- I can any% speedrun Dark Souls 3 
 
 ###### (this is a merge test)
