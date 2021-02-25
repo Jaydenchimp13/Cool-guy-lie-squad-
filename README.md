@@ -1,7 +1,7 @@
-## Cool-guy-lie-squad-
-##2T1L
+# Cool-guy-lie-squad-
+#2T1L
 
 <--taking L's-->
 
-## Hi Guys
+# Hi Guys
 #🍆🍆🍆🍆🍆🍆🍆🍆🍆🍆
